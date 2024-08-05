@@ -1,5 +1,6 @@
 # CasoPractico_sql
 Caso práctico de SQL en donde se analizan las ventas de un restaurante para tener sugerencias en su nuevo menú basado en las ventas obtenidas
+
 ##Análisis de las ventas
 
 Observando los datos dados tanto en las fechas en la que hubo más ingresos y en la de menos ingresos como en general, los platillos más 
